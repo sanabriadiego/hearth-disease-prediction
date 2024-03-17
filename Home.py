@@ -6,7 +6,7 @@ st.set_page_config(
 )
 
 st.title("Welcome to the Hearth Disease Prediction app :stethoscope:")
-st.image('./imgs/hearth_cover.png', caption='')
+st.image('./imgs/hearth_cover.png', caption='The draw of a magnifying glass pointing to a hearth')
 st.markdown('''  
             According to the British Hearth Foundation, there are around 620 million people living with heart and circulatory diseases across the world, this number has been
             rising due to changing lifestyles, an ageing and growing population, and improved survival rates from heart attacks and
