@@ -8,7 +8,7 @@ st.set_page_config(
 st.title("Welcome to the Heart Disease Prediction app :stethoscope:")
 st.image('./imgs/hearth_cover.png', caption='Diagnosing a hearth disease is very important for a patient')
 st.markdown('''  
-            According to the British Hearth Foundation, there are around 620 million people living with heart and circulatory diseases across the world, this number has been
+            According to the British Heart Foundation, there are around 620 million people living with heart and circulatory diseases across the world, this number has been
             rising due to changing lifestyles, an ageing and growing population, and improved survival rates from heart attacks and
             strokes, and will continue to rise if these trends continue.  
             Each year around 60 million people across the world develop a heart or circulatory disease, that's almost the same as the entire
